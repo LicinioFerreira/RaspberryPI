@@ -1,0 +1,17 @@
+
+RaspberryWindowns
+
+
+1.
+
+    https://uup.rg-adguard.net/   (cmd tool)
+
+2.
+   
+    https://worproject.com/
+
+
+3. It is necessary create an image (ISO) in command line, after that it is necessary to use Windowns on Raspberry PI, to format SD card and
+   and install the Windowns image (22H2)
+
+Video: https://www.youtube.com/watch?v=jTQNY4aVFks&ab_channel=NETVN82
